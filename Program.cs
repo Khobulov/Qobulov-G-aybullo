@@ -1,0 +1,6 @@
+using LogFormApplication;
+
+class Program
+{
+   
+}
